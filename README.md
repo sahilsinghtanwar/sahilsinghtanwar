@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/sahilsinghtanwar?logo=github&style=
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c++,c,python,aws,linux,git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,aws,linux,git,kubernetes,docker,javascript,vim" />
   </a>
 </p>
 
