@@ -36,7 +36,6 @@ src="https://img.shields.io/github/followers/sahilsinghtanwar?logo=github&style=
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
 />
-
 <i className="ci ci-instagram ci-2x"></i>
 <i className="ci ci-linkedin ci-2x"></i>
 <i className="ci ci-gmail ci-2x"></i>
